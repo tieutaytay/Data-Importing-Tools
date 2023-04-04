@@ -1,2 +1,6 @@
-# Data-Importing-Tools
-Programming Language: Python
+# Object-Oriented Programming
+
+### *Author: Tay Nguyen*
+
+[Whatsapp] (whatsapp.com/TaeTaeTae)
+[Telegram] (telegram.org/TaeTaeTae)
