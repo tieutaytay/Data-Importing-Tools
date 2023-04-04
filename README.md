@@ -2,5 +2,5 @@
 
 ### *Author: Tay Nguyen*
 
-[Whatsapp] (whatsapp.com/TaeTaeTae)
-[Telegram] (telegram.org/TaeTaeTae)
+[Whatsapp] (www.whatsapp.com/TaeTaeTae)
+[Telegram] (www.telegram.org/TaeTaeTae)
